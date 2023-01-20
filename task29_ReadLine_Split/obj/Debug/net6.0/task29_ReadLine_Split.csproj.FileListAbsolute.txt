@@ -1,0 +1,15 @@
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\bin\Debug\net6.0\task29_ReadLine_Split.exe
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\bin\Debug\net6.0\task29_ReadLine_Split.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\bin\Debug\net6.0\task29_ReadLine_Split.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\bin\Debug\net6.0\task29_ReadLine_Split.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\bin\Debug\net6.0\task29_ReadLine_Split.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\refint\task29_ReadLine_Split.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\task29_ReadLine_Split.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task29_ReadLine_Split\obj\Debug\net6.0\ref\task29_ReadLine_Split.dll

@@ -1,0 +1,15 @@
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\bin\Debug\net6.0\task27_SumDigits.exe
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\bin\Debug\net6.0\task27_SumDigits.deps.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\bin\Debug\net6.0\task27_SumDigits.runtimeconfig.json
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\bin\Debug\net6.0\task27_SumDigits.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\bin\Debug\net6.0\task27_SumDigits.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.AssemblyInfo.cs
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\refint\task27_SumDigits.dll
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.pdb
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\task27_SumDigits.genruntimeconfig.cache
+C:\Users\anton\Documents\GEEK BRAINS\3_Введение в языки программирования\Лекция 3\Example_lesson 3_3\task27_SumDigits\obj\Debug\net6.0\ref\task27_SumDigits.dll
